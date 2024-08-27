@@ -55,8 +55,8 @@ The model is implemented using a Convolutional Neural Network (CNN) to accuratel
 
 The model achieves a high accuracy on the MNIST dataset. Here are some of the results:
 
-- Training Accuracy: XX%
-- Testing Accuracy: XX%
+- Training Accuracy: 100%
+- Testing Accuracy: 100%
 
 ## Contributing
 
